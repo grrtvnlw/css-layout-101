@@ -1,0 +1,23 @@
+aside {
+  width: 20%;
+  float: right;
+  display: block;
+  height: 850px;
+  overflow: scroll;
+}
+
+main {
+  width: 80%;
+  float: left;
+  display: block;
+}
+
+footer {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+
+/* .clearfix {
+  clear: both;
+} */
